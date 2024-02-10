@@ -1,2 +1,2 @@
 # UNLP
-Recursops de Lic. en Informática
+Recursos de Lic. en Informática
