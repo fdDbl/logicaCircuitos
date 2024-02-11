@@ -38,14 +38,14 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
 
     Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
 
-  * Negación (¬)
+  * **Negación (¬)**
 
     | p |¬p |
     |:-:|:-:|
     | V | F |
     | F | V |
 
-  * Conjunción (∧)
+  * **Conjunción (∧)**
 
     | p | q | p ∧ q |
     |:-:|:-:|:-----:|
@@ -54,7 +54,7 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
     | F | V |   F   |
     | F | F |   F   |
 
-  * Disyunción (∨)
+  * **Disyunción (∨)**
 
     | p | q | p ∨ q |
     |:-:|:-:|:-----:|
@@ -63,7 +63,7 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
     | F | V |   V   |
     | F | F |   F   |
 
-  * Disyunción exclusiva (⊻)
+  * **Disyunción exclusiva (⊻)**
 
     | p | q | p ⊻ q |
     |:-:|:-:|:-----:|
