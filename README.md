@@ -8,5 +8,5 @@ En este repo de relacionarán los conocimientos de lógica proposicional vistos 
 <br>
 
 ### Se explica:
-* Lógica proposicional.
+* Lógica proposicional...
 * Tabla de verdad.
