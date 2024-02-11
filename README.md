@@ -7,6 +7,5 @@ En este repo de relacionarán los temas de lógica proposicional vistos en la ma
 
 <br>
 
-### Se explican:
 * Lógica proposicional.
 * Tabla de verdad.
