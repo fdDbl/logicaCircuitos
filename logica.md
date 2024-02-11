@@ -36,9 +36,9 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
 
 * #### Conectivos lógicos
 
-    Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
+Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
 
-    Estos son:
+Estos son:
 
   * Conjunción (∧)
 
