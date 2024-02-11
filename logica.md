@@ -12,7 +12,7 @@ De estas tres materias, las primeras dos son las que incluyen a la lógica en su
 
 MAT0 lo hace de forma temprana, introduciendo el mundo de la lógica sin la necesidad de conjuntos numéricos. De esta forma, el alumno ya se encuentra sobre una base con la que encarar los posteriores contenidos lógicos de COC.
 
-1. ### Perspectiva matemática *o proposicional*
+### 1. Perspectiva matemática *o proposicional*
 
 En la materia **Matemática 0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso.
 
@@ -74,4 +74,4 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
 
 > Existen más conectivos, pero solo estos nos interesan a la hora de relacionarlos con los de COC.
 
-2. ### Perspectiva computacional *o booleana*
+### 2. Perspectiva computacional *o booleana*
