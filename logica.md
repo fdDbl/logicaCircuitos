@@ -116,16 +116,16 @@ Además, se acostumbra a usar el alfabeto A, B, C,... para denominar las variabl
 
   * **Puerta NOT**
 
-    !(https://upload.wikimedia.org/wikipedia/commons/5/50/Funcion_logica_SI.PNG)
+    ![NOT](https://upload.wikimedia.org/wikipedia/commons/5/50/Funcion_logica_SI.PNG)
 
   * **Puerta AND**
 
-    !(https://upload.wikimedia.org/wikipedia/commons/3/3a/Funcion_logica_Y.PNG)
+    ![AND](https://upload.wikimedia.org/wikipedia/commons/3/3a/Funcion_logica_Y.PNG)
 
   * **Puerta OR**
 
-    !(https://upload.wikimedia.org/wikipedia/commons/0/05/Funcion_logica_O.PNG)
+    ![OR](https://upload.wikimedia.org/wikipedia/commons/0/05/Funcion_logica_O.PNG)
 
   * **Puerta XOR**
 
-    !(https://upload.wikimedia.org/wikipedia/commons/0/01/Funcion_logica_O-EX.PNG)
+    ![XOR](https://upload.wikimedia.org/wikipedia/commons/0/01/Funcion_logica_O-EX.PNG)
