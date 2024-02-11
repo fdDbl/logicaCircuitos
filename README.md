@@ -3,7 +3,7 @@ Aplicación de la lógica proposicional a la lógica de circuitos *(tabla de ver
 
 <br>
 
-En este repo de relacionarán los temas de lógica proposicional vistos en la materia del curso de ingreso **MATE 0** a las tablas de verdad de, más que nada, las compuertas lógicas de **COC**.
+En este repo de relacionarán los conocimientos de lógica proposicional vistos en la materia del curso de ingreso **MATE 0** a las tablas de verdad de las compuertas lógicas de **COC** y demás temas semejantes.
 
 <br>
 
