@@ -114,15 +114,15 @@ Además, se acostumbra a usar el alfabeto A, B, C,... para denominar las variabl
   Todo lo anterior no tiene sentido por si solo en toda esta explicación si no le complementamos el tema de **puertas lógicas**. A través de las puertas lógicas, en función de la combinación o
   combinaciones booleanas, se obtendrán funciones más complejas.
 
-  1. **Puerta NOT**
+1. **Puerta NOT**
 
-  2. **Puerta AND**
+2. **Puerta AND**
 
-  3. **Puerta OR**
+3. **Puerta OR**
 
-  4. **Puerta XOR**
+4. **Puerta XOR**
 
-  1. ![NOT](https://upload.wikimedia.org/wikipedia/commons/5/50/Funcion_logica_SI.PNG)
-  2. ![AND](https://upload.wikimedia.org/wikipedia/commons/3/3a/Funcion_logica_Y.PNG)
-  3. ![OR](https://upload.wikimedia.org/wikipedia/commons/0/05/Funcion_logica_O.PNG)
-  4. ![XOR](https://upload.wikimedia.org/wikipedia/commons/0/01/Funcion_logica_O-EX.PNG)
+1. ![NOT](https://upload.wikimedia.org/wikipedia/commons/5/50/Funcion_logica_SI.PNG)
+2. ![AND](https://upload.wikimedia.org/wikipedia/commons/3/3a/Funcion_logica_Y.PNG)
+3. ![OR](https://upload.wikimedia.org/wikipedia/commons/0/05/Funcion_logica_O.PNG)
+4. ![XOR](https://upload.wikimedia.org/wikipedia/commons/0/01/Funcion_logica_O-EX.PNG)
