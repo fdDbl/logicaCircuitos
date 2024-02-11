@@ -23,4 +23,4 @@ Para indicar su valor de verdad, se escribe la letra encerrada en una V(), por e
 #### Proposiciones atómicas
 
 Llámese también "simples" a las proposiciones que, siendo únicas en su expresión, solo tienen un valor de verdad.
-> Ejemplo: *p: 3 + 6 = 9*
+> p: 3 + 6 = 9
