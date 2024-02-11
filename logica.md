@@ -36,7 +36,7 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
 
 * #### Conectivos lógicos
 
-    Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
+    Las proposiciones simples se unen entre sí mediante **conectivos lógicos**.
 
   * **Negación (¬)**
 
@@ -76,7 +76,7 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
 
 ### 2. Perspectiva computacional *o booleana*
 
-En la materia de **COC**, al aplicarse los conectivos lógicos anteriores a los entornos computacionales, los valores de verdad (booleanos) se diferencian con 0 y 1.
+En la materia de **COC**, al aplicarse los conectivos lógicos anteriores a los entornos computacionales, los valores de verdad (V y F) son booleanos y se indican con 0 y 1.
 
 De esta manera, V y F no solo se convierten a esos dos números, sino que también se pueden convertir a fórmulas que hacen más simple su interpretación.
 
