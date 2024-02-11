@@ -12,7 +12,7 @@ De estas tres materias, las primeras dos son las que incluyen a la lógica en su
 
 MAT0 lo hace de forma temprana, introduciendo el mundo de la lógica sin la necesidad de conjuntos numéricos. De esta forma, el alumno ya se encuentra sobre una base con la que encarar los posteriores contenidos lógicos de COC.
 
-### Perspectiva matemática *o proposicional*
+1. ### Perspectiva matemática *o proposicional*
 
 En la materia **Matemática 0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso.
 
@@ -20,13 +20,13 @@ Cada proposición se identifica comúnmente con las letras: *p, q, r, s, t*.
 
 Para indicar su valor de verdad, se escribe la letra encerrada en una V(), por ejemplo, V(q).
 
-#### Proposiciones atómicas
+* #### Proposiciones atómicas
 
 Llámese también "simples" a las proposiciones que, siendo únicas en su expresión, no se pueden descomponer.
 
 > p: 3 + 6 = 9
 
-#### Proposiciones moleculares
+* #### Proposiciones moleculares
 
 Llámese también "compuestas" a las proposiciones que, no siendo únicas en su expresión, constan de dos o más proposiciones simples.
 
@@ -34,6 +34,6 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
 > q: Bach era compositor.
 > p y q: Bach era organista y compositor.
 
-#### Conectivos lógicos
+* #### Conectivos lógicos
 
-Las proposiciones moleculares se unen entre sí mediante conectivos **lógicos**.
+Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
