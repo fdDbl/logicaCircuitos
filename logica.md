@@ -18,4 +18,4 @@ En la materia **Matemática 0** se introduce la lógica proposicional. Se explic
 
 #### Proposiciones atómicas
 
-Llámese también "simples" a la
+Llámese también "simples" a las proposiciones que, siendo únicas en su expresión, solo tienen un valor de verdad.
