@@ -109,3 +109,23 @@ Además, se acostumbra a usar el alfabeto A, B, C,... para denominar las variabl
     | 0 | 1 |   1   |
     | 0 | 0 |   0   |
 
+* #### Puertas lógicas:
+
+  Todo lo anterior no tiene sentido por si solo en toda esta explicación si no le complementamos el tema de **puertas lógicas**. A través de las puertas lógicas, en función de la combinación o
+  combinaciones booleanas, se obtendrán funciones más complejas.
+
+  * **Puerta NOT**
+
+    ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
+  * **Puerta AND**
+
+
+
+  * **Puerta OR**
+
+
+
+  * **Puerta XOR**
+
+
