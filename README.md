@@ -9,4 +9,4 @@ En este repo de relacionarán los temas de lógica proposicional vistos en la ma
 
 ### Se explica:
 * Lógica proposicional.
-* Tabla de verdaddddddd.
+* Tabla de verdadddddddddddd.
