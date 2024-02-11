@@ -82,6 +82,8 @@ De esta manera, V y F no solo se convierten a esos dos números, sino que tambi�
 
 Además, se acostumbra a usar el alfabeto A, B, C,... para denominar las variables (proposiciones en MAT0), y usualmente la letra F para la salida (Por ejemplo, p ∧ q en MAT0 pasa a ser F en COC).
 
+* Estos conectivos son:
+
   * **Complementación lógica (-)**
 
     | A | Ā |
