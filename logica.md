@@ -1,8 +1,21 @@
 # **Lógica proposicional aplicada a la lógica digital**
-## Dos enfoques lógicos...
+
+## Dos perspectivas lógicas...
+
 El Curso Inicial Obligatorio de la Facultad de Informática de la UNLP está compuesto por tres materias teórico-prácticas:
-* Matemática 0 (MAT0)
-* Expresión de problemas y algoritmos (EPA)
-* Conceptos (COC)
-### Enfoque matemático *o proposicional*
-En la materia _Matemática 0_ ...
+
+* Matemática 0 (MAT0);
+* Conceptos de Organización de Computadoras (COC);
+* Expresión de Problemas y Algoritmos (EPA).
+
+De estas tres materias, las primeras dos son las que incluyen a la lógica en sus contenidos.
+
+MAT0 lo hace de forma temprana, introduciendo el mundo de la lógica sin la necesidad de conjuntos numéricos. De esta forma, el alumno ya se encuentra sobre una base con la que encarar los posteriores contenidos lógicos de COC.
+
+### Perspectiva matemática *o proposicional*
+
+En la materia **Matemática 0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso. 
+
+#### Proposiciones atómicas
+
+Llámese también "simples" a la
