@@ -1,5 +1,5 @@
 # Lógica de circuitos
-Aplicación de la lógica proposicional a la lógica de circuitos *(tabla de verdad)*.
+> Aplicación de la lógica proposicional a la lógica de circuitos *(tabla de verdad)*.
 
 <br>
 
