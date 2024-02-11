@@ -36,9 +36,16 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
 
 * #### Conectivos lógicos
 
-Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
+    Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
 
-Estos son:
+    Estos son:
+
+  * Negación (¬)
+
+    | p |¬p |
+    |:-:|:-:|
+    | V | F |
+    | F | V |
 
   * Conjunción (∧)
 
@@ -48,3 +55,24 @@ Estos son:
     | V | F |   F   |
     | F | V |   F   |
     | F | F |   F   |
+
+  * Disyunción (∨)
+
+    | p | q | p ∨ q |
+    |:-:|:-:|:-----:|
+    | V | V |   V   |
+    | V | F |   V   |
+    | F | V |   V   |
+    | F | F |   F   |
+
+  * Disyunción exclusiva (⊻)
+
+    | p | q | p ⊻ q |
+    |:-:|:-:|:-----:|
+    | V | V |   F   |
+    | V | F |   V   |
+    | F | V |   V   |
+    | F | F |   F   |
+
+> Existen más conectivos, pero solo estos nos interesan a la hora de relacionarlos con los de COC.
+
