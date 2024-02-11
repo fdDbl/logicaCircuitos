@@ -1,2 +1,3 @@
-# UNLP
-Recursos de Lic. en Informática
+# Lógica de circuitos
+## Aplicación en la lógica de circuitos de la lógica proposicional (Tabla de verdad).
+
