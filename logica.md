@@ -14,7 +14,7 @@ MAT0 lo hace de forma temprana, introduciendo el mundo de la lógica sin la nece
 
 ### 1. Perspectiva matemática *o proposicional*
 
-En la materia **Matemática 0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso.
+En la materia **MAT0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso.
 
 Cada proposición se identifica comúnmente con las letras: *p, q, r, s, t*.
 
@@ -75,3 +75,35 @@ Llámese también "compuestas" a las proposiciones que, no siendo únicas en su 
 > Existen más conectivos, pero solo estos nos interesan a la hora de relacionarlos con los de COC.
 
 ### 2. Perspectiva computacional *o booleana*
+
+En la materia de **COC**, al aplicarse los conectivos lógicos anteriores a los entornos computacionales, los valores de verdad (booleanos) se diferencian con 0 y 1.
+
+De esta manera, V y F no solo se convierten a esos dos números, sino que también se pueden convertir a fórmulas que hacen más simple su interpretación.
+
+Además, se acostumbra a usar el alfabeto A, B, C,... para denominar las variables (proposiciones en MAT0), y usualmente la letra F para la salida (Por ejemplo, p ∧ q en MAT0 pasa a ser F en COC).
+
+  * **Complementación lógica (-)**
+
+    | A | Ā |
+    |:-:|:-:|
+    | 1 | 0 |
+    | 0 | 1 |
+
+  * **Producto lógico (*)**
+
+    | A | B | A * B |
+    |:-:|:-:|:-----:|
+    | 1 | 1 |   1   |
+    | 1 | 0 |   0   |
+    | 0 | 1 |   0   |
+    | 0 | 0 |   0   |
+
+  * **Suma lógica (+)**
+
+    | A | B | A + B |
+    |:-:|:-:|:-----:|
+    | 1 | 1 |   1   |
+    | 1 | 0 |   1   |
+    | 0 | 1 |   1   |
+    | 0 | 0 |   0   |
+
