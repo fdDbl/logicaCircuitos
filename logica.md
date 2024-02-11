@@ -14,63 +14,63 @@ MAT0 lo hace de forma temprana, introduciendo el mundo de la lógica sin la nece
 
 1. ### Perspectiva matemática *o proposicional*
 
-    En la materia **Matemática 0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso.
+En la materia **Matemática 0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso.
 
-    Cada proposición se identifica comúnmente con las letras: *p, q, r, s, t*.
+Cada proposición se identifica comúnmente con las letras: *p, q, r, s, t*.
 
-    Para indicar su valor de verdad, se escribe la letra encerrada en una V(), por ejemplo, V(q).
+Para indicar su valor de verdad, se escribe la letra encerrada en una V(), por ejemplo, V(q).
 
-       * #### Proposiciones atómicas
+   * #### Proposiciones atómicas
 
-       Llámese también "simples" a las proposiciones que, siendo únicas en su expresión, no se pueden descomponer.
+   Llámese también "simples" a las proposiciones que, siendo únicas en su expresión, no se pueden descomponer.
 
-       > p: 3 + 6 = 9
+   > p: 3 + 6 = 9
 
-       * #### Proposiciones moleculares
+   * #### Proposiciones moleculares
 
-       Llámese también "compuestas" a las proposiciones que, no siendo únicas en su expresión, constan de dos o más proposiciones simples.
+   Llámese también "compuestas" a las proposiciones que, no siendo únicas en su expresión, constan de dos o más proposiciones simples.
 
-       > p: Bach era organista.
-       > q: Bach era compositor.
-       > p y q: Bach era organista y compositor.
+   > p: Bach era organista.
+   > q: Bach era compositor.
+   > p y q: Bach era organista y compositor.
 
-       * #### Conectivos lógicos
+   * #### Conectivos lógicos
 
-        Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
+       Las proposiciones moleculares se unen entre sí mediante **conectivos lógicos**.
 
-         * Negación (¬)
+     * Negación (¬)
 
-             | p |¬p |
-             |:-:|:-:|
-             | V | F |
-             | F | V |
+       | p |¬p |
+       |:-:|:-:|
+       | V | F |
+       | F | V |
 
-         * Conjunción (∧)
+     * Conjunción (∧)
 
-             | p | q | p ∧ q |
-             |:-:|:-:|:-----:|
-             | V | V |   V   |
-             | V | F |   F   |
-             | F | V |   F   |
-             | F | F |   F   |
+       | p | q | p ∧ q |
+       |:-:|:-:|:-----:|
+       | V | V |   V   |
+       | V | F |   F   |
+       | F | V |   F   |
+       | F | F |   F   |
 
-         * Disyunción (∨)
+     * Disyunción (∨)
 
-             | p | q | p ∨ q |
-             |:-:|:-:|:-----:|
-             | V | V |   V   |
-             | V | F |   V   |
-             | F | V |   V   |
-             | F | F |   F   |
+       | p | q | p ∨ q |
+       |:-:|:-:|:-----:|
+       | V | V |   V   |
+       | V | F |   V   |
+       | F | V |   V   |
+       | F | F |   F   |
 
-         * Disyunción exclusiva (⊻)
+     * Disyunción exclusiva (⊻)
 
-             | p | q | p ⊻ q |
-             |:-:|:-:|:-----:|
-             | V | V |   F   |
-             | V | F |   V   |
-             | F | V |   V   |
-             | F | F |   F   |
+       | p | q | p ⊻ q |
+       |:-:|:-:|:-----:|
+       | V | V |   F   |
+       | V | F |   V   |
+       | F | V |   V   |
+       | F | F |   F   |
 
-         > Existen más conectivos, pero solo estos nos interesan a la hora de relacionarlos con los de COC.
+   > Existen más conectivos, pero solo estos nos interesan a la hora de relacionarlos con los de COC.
 
