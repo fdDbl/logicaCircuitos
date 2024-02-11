@@ -1,6 +1,6 @@
 # **Lógica proposicional aplicada a la lógica digital**
 
-## Dos perspectivas lógicas...
+## Dos perspectivas lógicas
 
 El Curso Inicial Obligatorio de la Facultad de Informática de la UNLP está compuesto por tres materias teórico-prácticas:
 
@@ -14,8 +14,13 @@ MAT0 lo hace de forma temprana, introduciendo el mundo de la lógica sin la nece
 
 ### Perspectiva matemática *o proposicional*
 
-En la materia **Matemática 0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso. 
+En la materia **Matemática 0** se introduce la lógica proposicional. Se explica, entonces, cómo expresiones proposicionales pueden tener valores de verdadero o falso.
+
+Cada proposición se identifica comúnmente con las letras: *p, q, r, s, t*.
+
+Para indicar su valor de verdad, se escribe la letra encerrada en una V(), por ejemplo, V(q).
 
 #### Proposiciones atómicas
 
 Llámese también "simples" a las proposiciones que, siendo únicas en su expresión, solo tienen un valor de verdad.
+> Ejemplo: *p: 3 + 6 = 9*
