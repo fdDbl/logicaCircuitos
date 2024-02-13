@@ -6,5 +6,7 @@ En este repo de relacionarán los conocimientos de lógica proposicional vistos 
 <br>
 
 ## Contenidos
-* Lógica proposicional.
 * Tabla de verdad.
+* Lógica proposicional.
+* Lógica booleana.
+* Puertas lógicas.
