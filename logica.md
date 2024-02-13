@@ -1,4 +1,4 @@
-# **Lógica proposicional aplicada a la lógica digital**
+# **Lógica proposicional aplicada a la lógica de circuitos**
 
 ## Dos perspectivas lógicas
 
