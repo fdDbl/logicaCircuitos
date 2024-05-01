@@ -31,7 +31,9 @@ Llámese también "simples" a las proposiciones que, siendo únicas en su expres
 Llámese también "compuestas" a las proposiciones que, no siendo únicas en su expresión, constan de dos o más proposiciones simples.
 
 > p: Bach era organista.
+
 > q: Bach era compositor.
+
 > p y q: Bach era organista y compositor.
 
 * #### Conectivos lógicos
