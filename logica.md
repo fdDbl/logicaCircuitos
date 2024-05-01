@@ -126,5 +126,3 @@ Además, se acostumbra a usar el alfabeto A, B, C,... para denominar las variabl
    2. ![AND](https://upload.wikimedia.org/wikipedia/commons/3/3a/Funcion_logica_Y.PNG)
    3. ![OR](https://upload.wikimedia.org/wikipedia/commons/0/05/Funcion_logica_O.PNG)
    4. ![XOR](https://upload.wikimedia.org/wikipedia/commons/0/01/Funcion_logica_O-EX.PNG)
-
-## Conclusión
